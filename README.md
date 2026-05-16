@@ -4,6 +4,14 @@ Stage 1 local-first CMMS-style asset database.
 
 ## Start
 
+Double-click:
+
+```text
+start_cmms_app.bat
+```
+
+Or run manually:
+
 ```powershell
 C:\Users\FLO\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe server.py
 ```
